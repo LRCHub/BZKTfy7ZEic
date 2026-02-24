@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "きっと大丈夫",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-24T05:17:43.908696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きっと大丈夫",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/01_きっと大丈夫_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きっと大丈夫",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/02_きっと大丈夫_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きっと大丈夫",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_きっと大丈夫_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きっと大丈夫",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_きっと大丈夫_嵐.txt"
+    }
+  ]
+}
